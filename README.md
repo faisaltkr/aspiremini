@@ -2,10 +2,6 @@
 
 ## MINI ASPIRE API
 
-***
-***
-
-
 ## Installation & Requirements
 
 
@@ -53,4 +49,4 @@
 
 ## Complete Documentation 
 
-[Read Complete Documentation](https://github.com/faisaltkr/aspiremini/apidoc.md)
+[Read Complete Documentation](https://github.com/faisaltkr/aspiremini/blob/main/apidoc.md)

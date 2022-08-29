@@ -10,7 +10,7 @@
 *** 
 
 ***
-    Clone to this repo : git clone git@bitbucket.org:faisaltkr/node-project.git
+    Clone to this repo : https://github.com/faisaltkr/aspiremini.git
 ***
 
 
